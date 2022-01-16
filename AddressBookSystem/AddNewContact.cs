@@ -76,13 +76,6 @@ namespace AddressBookSystem
         }
 
 
-        static void Main(string[] args)
-        {
-            AddressBookSystem.AddNewContact.GetPerson();
-            AddressBookSystem.AddNewContact.ListingPeople();
-
-
-        }
     }
 
 
